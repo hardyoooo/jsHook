@@ -1,0 +1,10 @@
+context com.tencent.mm.app.Application@e7821f7
+context com.tencent.mm.app.Application@e7821f7
+context com.tencent.mm.app.Application@e7821f7
+context com.tencent.mm.app.Application@e7821f7
+context com.tencent.mm.app.Application@e7821f7
+context com.tencent.mm.app.Application@e7821f7
+context com.tencent.mm.app.Application@e7821f7
+context com.tencent.mm.app.Application@e7821f7
+context com.tencent.mm.app.Application@e7821f7
+context com.tencent.mm.app.Application@e7821f7

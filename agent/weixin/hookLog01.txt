@@ -1,0 +1,41 @@
+com.tencent.mm.ui.tools.b
+com.tencent.mm.ui.tools.b
+cvar2 =>  com.tencent.mm.api.c@8e6d3c9
+activity2 =>  com.tencent.mm.plugin.profile.ui.ContactInfoUI@581201a
+bool2 =>  true
+object2 =>  [object Object]
+int2 =>  0
+-------------------------------------------------------
+-->toolsb2: java.lang.Throwable
+	at com.tencent.mm.ui.tools.b.a(Native Method)
+	at com.tencent.mm.app.aj.a(SourceFile:438)
+	at com.tencent.mm.plugin.profile.ui.newbizinfo.NewBizInfoFollowPreference$2.onClick(SourceFile:1583)
+	at android.view.View.performClick(View.java:6294)
+	at android.view.View$PerformClick.run(View.java:24770)
+	at android.os.Handler.handleCallback(Handler.java:790)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6494)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:807)
+
+cvar =>  com.tencent.mm.api.c@8e6d3c9
+activity =>  com.tencent.mm.plugin.profile.ui.ContactInfoUI@581201a
+bool =>  true
+int1 =>  0
+-------------------------------------------------------
+-->toolsb: java.lang.Throwable
+	at com.tencent.mm.ui.tools.b.a(Native Method)
+	at com.tencent.mm.ui.tools.b$1.onClick(SourceFile:89)
+	at com.tencent.mm.ui.widget.a.d$4.onClick(SourceFile:692)
+	at android.view.View.performClick(View.java:6294)
+	at android.view.View$PerformClick.run(View.java:24770)
+	at android.os.Handler.handleCallback(Handler.java:790)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:164)
+	at android.app.ActivityThread.main(ActivityThread.java:6494)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:807)
+
